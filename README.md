@@ -1,1 +1,1 @@
-# all-things-sql
+# sql-query-storage
