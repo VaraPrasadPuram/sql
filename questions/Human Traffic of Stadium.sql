@@ -1,10 +1,8 @@
-# Write a query to display the records which have 3 or more consecutive rows and the amount of people more than 100(inclusive).
+-- Write a query to display the records which have 3 or more consecutive rows and the amount of people more than 100(inclusive).
 
--- X city built a new stadium, each day many people visit it and 
-# the stats are saved as these columns: id, visit_date, people
+-- X city built a new stadium, each day many people visit it and the stats are saved as these columns: id, visit_date, people
 
--- Please write a query to display the records which have 3 or 
-# more consecutive rows and the amount of people more than 100(inclusive).
+-- Please write a query to display the records which have 3 or more consecutive rows and the amount of people more than 100(inclusive).
 
 -- For example, the table stadium:
 -- +------+------------+-----------+
@@ -33,6 +31,6 @@
 -- Each day only have one row record, and the dates are increasing with id increasing.
 
 
-# This problem shows knowledge in LEFT JOIN with Subqueries, CTE, ROW_NUMBER
+-- This problem shows knowledge in LEFT JOIN with Subqueries, CTE, ROW_NUMBER
 
 
