@@ -1,4 +1,4 @@
-# Write an SQL query to report how many units in each category have been ordered on each day of the week.
+-- Write an SQL query to report how many units in each category have been ordered on each day of the week.
 
 
 -- You are the business owner and would like to obtain a sales report for category items and day of the week.
@@ -56,5 +56,5 @@
 -- There are no sales of T-Shirt.
 
 
-# This problem shows knowledge in Pivot table, CASE WHEN
+-- This problem shows knowledge in Pivot table, CASE WHEN
 
