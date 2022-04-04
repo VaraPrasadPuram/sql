@@ -1,13 +1,10 @@
-# Write an SQL query to report the students (student_id, student_name) being “quiet” in ALL exams. A “quite” student is the one who took at least one exam and didn’t score neither the high score nor the low score.
+-- Write an SQL query to report the students (student_id, student_name) being “quiet” in ALL exams. A “quite” student is the one who took at least one exam and didn’t score neither the high score nor the low score.
 
-# -- A "quite" student is the one who took at least one exam and didn't score
-# neither the high score nor the low score.
+-- A "quite" student is the one who took at least one exam and didn't score neither the high score nor the low score.
 
-# -- Write an SQL query to report the students (student_id, student_name) 
-# being "quiet" in ALL exams.
+-- Write an SQL query to report the students (student_id, student_name) being "quiet" in ALL exams.
 
-# -- Don't return the student who has never taken any exam. Return the result 
-# table ordered by student_id.
+-- Don't return the student who has never taken any exam. Return the result table ordered by student_id.
 
 -- The query result format is in the following example.
 
@@ -46,6 +43,6 @@
 -- +-------------+---------------+
 
 
-# This problem shows knowledge in Subqueries, MIN, MAX, Window functions, Window Alias, INNER JOIN, ALL keyword
+-- This problem shows knowledge in Subqueries, MIN, MAX, Window functions, Window Alias, INNER JOIN, ALL keyword
 
 
