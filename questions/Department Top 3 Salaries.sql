@@ -1,4 +1,4 @@
-# Write an SQL query to find employees who earn the top three salaries in each of the department. For the above tables, your SQL query should return the following rows (order of rows does not matter).
+-- Write an SQL query to find employees who earn the top three salaries in each of the department. For the above tables, your SQL query should return the following rows (order of rows does not matter).
 
 -- The Employee table holds all employees. Every employee has an Id, and there is also a column for the department Id.
 
@@ -40,5 +40,5 @@
 -- There are only two employees in the Sales department, 
 -- Henry earns the highest salary while Sam earns the second highest salary.
 
-# This problem shows knowledge in DENSE_RANK
+-- This problem shows knowledge in DENSE_RANK
 
