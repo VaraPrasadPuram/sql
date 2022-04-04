@@ -1,4 +1,4 @@
-# Write an SQL query to find all numbers that appear at least three times consecutively.
+-- Write an SQL query to find all numbers that appear at least three times consecutively.
 
 -- Write a SQL query to find all numbers that appear at least three times consecutively.
 
@@ -13,8 +13,7 @@
 -- | 6  |  2  |
 -- | 7  |  2  |
 -- +----+-----+
--- For example, given the above Logs table, 1 is the only number 
-that appears consecutively for at least three times.
+-- For example, given the above Logs table, 1 is the only number that appears consecutively for at least three times.
 
 -- +-----------------+
 -- | ConsecutiveNums |
@@ -22,5 +21,5 @@ that appears consecutively for at least three times.
 -- | 1               |
 -- +-----------------+
 
-# This problem shows knowledge in LAG, LEAD
+-- This problem shows knowledge in LAG, LEAD
 
