@@ -1,14 +1,12 @@
-# Write an SQL query to generate a report of period_state for each continuous interval of days in the period from 2019–01–01 to 2019–12–31.
+-- Write an SQL query to generate a report of period_state for each continuous interval of days in the period from 2019–01–01 to 2019–12–31.
 
 
 -- A system is running one task every day. Every task is independent of the previous tasks. 
-# The tasks can fail or succeed.
+-- The tasks can fail or succeed.
 
--- Write an SQL query to generate a report of period_state for each continuous interval of
-# days in the period from 2019-01-01 to 2019-12-31.
+-- Write an SQL query to generate a report of period_state for each continuous interval of days in the period from 2019-01-01 to 2019-12-31.
 
--- period_state is 'failed' if tasks in this interval failed or 'succeeded' if tasks 
-# in this interval succeeded. Interval of days are retrieved as start_date and end_date.
+-- period_state is 'failed' if tasks in this interval failed or 'succeeded' if tasks in this interval succeeded. Interval of days are retrieved as start_date and end_date.
 
 -- Order result by start_date.
 
@@ -46,12 +44,11 @@
 -- | succeeded    | 2019-01-06   | 2019-01-06   |
 -- +--------------+--------------+--------------+
 
--- The report ignored the system state in 2018 as we care about the system in the
-# period 2019-01-01 to 2019-12-31.
+-- The report ignored the system state in 2018 as we care about the system in the period 2019-01-01 to 2019-12-31.
 -- From 2019-01-01 to 2019-01-03 all tasks succeeded and the system state was "succeeded".
 -- From 2019-01-04 to 2019-01-05 all tasks failed and system state was "failed".
 -- From 2019-01-06 to 2019-01-06 all tasks succeeded and system state was "succeeded".
 
 
-# This problem shows knowledge in Date_sub, ROW_NUMBER
+-- This problem shows knowledge in Date_sub, ROW_NUMBER
 
