@@ -1,4 +1,4 @@
-# Write an SQL query to compute moving average of how much customer paid in a 7 days window (current day + 6 days before) .
+-- Write an SQL query to compute moving average of how much customer paid in a 7 days window (current day + 6 days before) .
 
 -- You are the restaurant owner and you want to analyze a possible expansion (there will be at least one customer every day).
 
@@ -42,5 +42,5 @@
 -- 3rd moving average from 2019-01-03 to 2019-01-09 has an average_amount of (120 + 130 + 110 + 140 + 150 + 80 + 110)/7 = 120
 -- 4th moving average from 2019-01-04 to 2019-01-10 has an average_amount of (130 + 110 + 140 + 150 + 80 + 110 + 130 + 150)/7 = 142.86
 
-# This problem shows knowledge in PRECEDING for moving average, OFFSET
+-- This problem shows knowledge in PRECEDING for moving average, OFFSET
 
