@@ -1,4 +1,4 @@
-# Given two tables below, write a query to display the comparison result (higher/lower/same) of the average salary of employees in a department to the company’s average salary.
+-- Given two tables below, write a query to display the comparison result (higher/lower/same) of the average salary of employees in a department to the company’s average salary.
 
 -- Table: salary
 -- | id | employee_id | amount | pay_date   |
@@ -32,6 +32,6 @@
 -- | 2017-02   | 2             | same        |
 
 
-# This problem shows knowledge in CTE's, Aggregates in Window functions, CASE WHEN, Date functions such as DATE_PART, INNER JOIN
+-- This problem shows knowledge in CTE's, Aggregates in Window functions, CASE WHEN, Date functions such as DATE_PART, INNER JOIN
 
 
