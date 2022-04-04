@@ -1,4 +1,4 @@
-# Write a query to find the shortest distance between these points rounded to 2 decimals.
+-- Write a query to find the shortest distance between these points rounded to 2 decimals.
 
 -- Write a query to find the shortest distance between these points rounded to 2 decimals.
  
@@ -20,5 +20,5 @@
 
 -- Note: The longest distance among all the points are less than 10000.
 
-# This problem shows knowledge in CROSS JOIN, SQRT, POW
+-- This problem shows knowledge in CROSS JOIN, SQRT, POW
 
