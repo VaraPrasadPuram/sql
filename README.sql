@@ -1,7 +1,7 @@
 /*
 SQL
 
-This repository was created to showcase how I use SQL to consistently and efficiently query, define, manipulate, and control data. In this repo, you'll find two files under the ```examples``` folder, ```leetcode``` and ```strata```. These folders contains the questions and my solutions to these problems.
+This repository was created to showcase how I use SQL to consistently and efficiently query, define, manipulate, and control data. In this repo, you'll find two files under the "examples" folder, "leetcode" and "strata". These folders contains the questions and my solutions to these problems.
 
 
 Acknowledgements
