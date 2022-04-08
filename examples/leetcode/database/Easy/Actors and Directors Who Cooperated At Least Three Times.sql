@@ -1,4 +1,4 @@
-
+-- Start Here
 -- Create the SQL Schema
 
 Create table If Not Exists ActorDirector (actor_id int, director_id int, timestamp int)
