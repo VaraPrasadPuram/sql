@@ -1,4 +1,4 @@
-
+-- Start Here
 -- Create the SQL Schema
 
 Create table If Not Exists Person (personId int, firstName varchar(255), lastName varchar(255))
