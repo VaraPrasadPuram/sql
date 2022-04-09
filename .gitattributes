@@ -1,2 +1,2 @@
 $ cat .gitattributes
-*.rb linguist-language=PLSQL
+*.rb linguist-language=PLpgSQL
