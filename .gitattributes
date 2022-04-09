@@ -1,7 +1,2 @@
-# .gitattributes file which reclassifies `.sql` files as SQL:
-*.sql linguist-detectable=true
-*.sql linguist-language=PLpgSQL
-examples/leetcode/database/Easy/*.sql linguist-language=PLpgSQL
-examples/leetcode/database/Medium/*.sql linguist-language=PLpgSQL
-examples/leetcode/database/Hard/*.sql linguist-language=PLpgSQL
-examples/leetcode/database/Easy/Actors and Directors Who Cooperated At Least Three Times.sql linguist-language=PLpgSQL
+* linguist-vendored
+*.sql linguist-vendored=false
