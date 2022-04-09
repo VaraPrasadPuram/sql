@@ -2,3 +2,4 @@ $ cat .gitattributes
 *.rb linguist-language=PLpgSQL
 *.sql linguist-language=PLpgSQL
 *.md linguist-language=PLpgSQL
+*.sql linguist-detectable=true
