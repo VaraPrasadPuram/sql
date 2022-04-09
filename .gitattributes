@@ -3,4 +3,4 @@ $ cat .gitattributes
 *.sql linguist-language=PLpgSQL
 *.md linguist-language=PLpgSQL
 *.sql linguist-detectable=true
-examples/leetcode/database/Easy/Big Countries.sql linguist-detectable=true
+examples/leetcode/database/Easy/Top_Travellers.sql linguist-detectable=true
