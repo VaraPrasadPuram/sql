@@ -1,1 +1,2 @@
- *.* linguist-language=PLpgSQL
+$ cat .gitattributes
+*.rb linguist-language=PLSQL
