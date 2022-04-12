@@ -1,5 +1,4 @@
 *.sql linguist-language=PLpgSQL
 *.sql linguist-detectable=true
 *.js linguist-language=PLpgSQL
-examples/leetcode/database/Easy/This File Is A Decoy.js linguist-language=PLpgSQL
-examples/leetcode/database/Easy/This File Is A Decoy.js linguist-detectable=true
+
