@@ -1,4 +1,4 @@
-*.sql linguist-language=PLpgSQL
+*.sql linguist-language=SQL
 *.sql linguist-detectable=true
-*.js linguist-language=PLpgSQL
+*.js linguist-language=SQL
 
